@@ -1,0 +1,16 @@
+﻿  MyForm.cpp
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(234,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(237,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(240,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(247,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(247,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(262,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(265,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(268,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(276,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(276,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\repos\ksks41\ksks41\MyForm.h(606,57): warning C4101: e: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ksks41.vcxproj -> C:\Users\mavr\source\repos\ksks41\x64\Debug\ksks41.exe
